@@ -1,3 +1,3 @@
 # ML
 
-Solved exercise of Machine Learning course on Coursera by Andrew Ng
+Solved exercise of Andrew Ng's Machine Learning course on Coursera.
